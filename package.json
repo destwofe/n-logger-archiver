@@ -1,0 +1,29 @@
+{
+  "name": "@destwofe/n-logger-archiver",
+  "version": "1.2.4",
+  "description": "archiver for n-logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destwofe/n-logger-archiver.git"
+  },
+  "keywords": [
+    "logger",
+    "logger-archiver"
+  ],
+  "author": "destwofe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/destwofe/n-logger-archiver/issues"
+  },
+  "homepage": "https://github.com/destwofe/n-logger-archiver#readme",
+  "dependencies": {
+    "@destwofe/n-utils": "^1.2.4",
+    "archiver": "^3.1.1",
+    "cron": "^1.7.2",
+    "moment": "^2.24.0"
+  }
+}
